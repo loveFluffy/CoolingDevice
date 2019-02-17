@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "U3_AllIO", "U3_AllIO.vbproj", "{968B4DFB-A747-416A-BC71-71925847D209}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{968B4DFB-A747-416A-BC71-71925847D209}.Debug.ActiveCfg = Debug|.NET
+		{968B4DFB-A747-416A-BC71-71925847D209}.Debug.Build.0 = Debug|.NET
+		{968B4DFB-A747-416A-BC71-71925847D209}.Release.ActiveCfg = Release|.NET
+		{968B4DFB-A747-416A-BC71-71925847D209}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

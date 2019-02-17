@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UE9_ExternalTriggerStream", "UE9_ExternalTriggerStream.csproj", "{9D54CD97-3482-43BB-86BF-A6E0A970743E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{9D54CD97-3482-43BB-86BF-A6E0A970743E}.Debug.ActiveCfg = Debug|.NET
+		{9D54CD97-3482-43BB-86BF-A6E0A970743E}.Debug.Build.0 = Debug|.NET
+		{9D54CD97-3482-43BB-86BF-A6E0A970743E}.Release.ActiveCfg = Release|.NET
+		{9D54CD97-3482-43BB-86BF-A6E0A970743E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

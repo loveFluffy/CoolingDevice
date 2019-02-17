@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "U3_LJTickDAC", "U3_LJTickDAC.vbproj", "{5C8FC9B5-35A6-4825-8C1D-4DE6367C6B6D}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5C8FC9B5-35A6-4825-8C1D-4DE6367C6B6D}.Debug.ActiveCfg = Debug|.NET
+		{5C8FC9B5-35A6-4825-8C1D-4DE6367C6B6D}.Debug.Build.0 = Debug|.NET
+		{5C8FC9B5-35A6-4825-8C1D-4DE6367C6B6D}.Release.ActiveCfg = Release|.NET
+		{5C8FC9B5-35A6-4825-8C1D-4DE6367C6B6D}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UE9_EFunctions", "UE9_EFunctions.csproj", "{CAE46207-064B-4246-BB99-83A185D7116E}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CAE46207-064B-4246-BB99-83A185D7116E}.Debug.ActiveCfg = Debug|.NET
+		{CAE46207-064B-4246-BB99-83A185D7116E}.Debug.Build.0 = Debug|.NET
+		{CAE46207-064B-4246-BB99-83A185D7116E}.Release.ActiveCfg = Release|.NET
+		{CAE46207-064B-4246-BB99-83A185D7116E}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

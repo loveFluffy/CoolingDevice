@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "UE9_Memory", "UE9_Memory.vbproj", "{59F6D99B-FE55-4163-B217-05982E009F88}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{59F6D99B-FE55-4163-B217-05982E009F88}.Debug.ActiveCfg = Debug|.NET
+		{59F6D99B-FE55-4163-B217-05982E009F88}.Debug.Build.0 = Debug|.NET
+		{59F6D99B-FE55-4163-B217-05982E009F88}.Release.ActiveCfg = Release|.NET
+		{59F6D99B-FE55-4163-B217-05982E009F88}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

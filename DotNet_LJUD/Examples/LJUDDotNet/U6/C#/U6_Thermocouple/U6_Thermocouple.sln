@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U6_Thermocouple", "U6_Thermocouple.csproj", "{EC85A29D-369A-4A52-8D6B-23C714E0BB0A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EC85A29D-369A-4A52-8D6B-23C714E0BB0A}.Debug.ActiveCfg = Debug|.NET
+		{EC85A29D-369A-4A52-8D6B-23C714E0BB0A}.Debug.Build.0 = Debug|.NET
+		{EC85A29D-369A-4A52-8D6B-23C714E0BB0A}.Release.ActiveCfg = Release|.NET
+		{EC85A29D-369A-4A52-8D6B-23C714E0BB0A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

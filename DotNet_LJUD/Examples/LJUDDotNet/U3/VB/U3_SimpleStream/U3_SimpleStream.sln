@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "U3_SimpleStream", "U3_SimpleStream.vbproj", "{6D7BC3BB-A586-4052-9CE3-CF57C3A459FF}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{6D7BC3BB-A586-4052-9CE3-CF57C3A459FF}.Debug.ActiveCfg = Debug|.NET
+		{6D7BC3BB-A586-4052-9CE3-CF57C3A459FF}.Debug.Build.0 = Debug|.NET
+		{6D7BC3BB-A586-4052-9CE3-CF57C3A459FF}.Release.ActiveCfg = Release|.NET
+		{6D7BC3BB-A586-4052-9CE3-CF57C3A459FF}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
